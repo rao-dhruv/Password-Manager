@@ -1,0 +1,27 @@
+npm create vite@latest
+npm install
+npm install tailwindcss @tailwindcss/vite
+
+
+//For Notification Effect
+npm i --save react-toastify
+
+npm install uuid
+
+node --watch {filename} //Same as nodemon
+
+npm i body-parser
+
+npm init -y
+npm i express@4
+npm -i dotenv
+npm install mongodb
+
+Tools & Technology Used:
+1 - LordIcon for icons
+2 - "bg.ibelick" for background wallpapers
+3 - Toastify for Notification Effects
+4 - UUID for defining unique id's
+5 - Express.js
+6 - MongoDB
+7 - React w/ JS
